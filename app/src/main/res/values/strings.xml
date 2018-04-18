@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ป้ายจราจรน่ารู้</string>
+    <string name="my_name">นางสาวศุภนิดา ปราบยุทธ์</string>
+    <string name="my_major">หลักสูตรวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์และเทคโนโลยี</string>
+    <string name="my_university">มหาวิทยาลัยสวนดุสิต</string>
+    <string name="my_mobile">เบอร์ติดต่อ:084-867-5482</string>
+    <string name="my_facebook">https://www.facebook.com/supanida.prebyut</string>
+</resources>
